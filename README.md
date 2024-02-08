@@ -3,7 +3,7 @@
 
 ### Lista de revisão:
 
-<ol>
+
 Variáveis:
 
  <ol>
@@ -78,4 +78,4 @@ Funções:
      <li>Experimente a declaração de funções usando diferentes formas, como declaração de função, expressão de função e arrow function.</li>
  </ol>
 
-</ol>
+
