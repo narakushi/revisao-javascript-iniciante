@@ -53,8 +53,8 @@ Arrays:
      <li>Remova o último elemento do array usando `pop()`.</li>
      <li>Use um loop `for` para iterar sobre os elementos do array e imprima cada um deles.</li>
  </ol>
+ 
 Objetos:
-
  <ol>
      <li>Crie um objeto representando uma pessoa com propriedades como nome, idade e profissão.</li>
      <li>Adicione novas propriedades ao objeto pessoa, como cidade e país.</li>
