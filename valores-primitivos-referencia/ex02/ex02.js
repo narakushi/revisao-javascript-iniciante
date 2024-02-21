@@ -1,5 +1,16 @@
 // Crie um array e atribua a ele alguns elementos. Em seguida, atribua esse array a uma nova variável, modifique um dos elementos do novo array e verifique se o array original foi modificado também.
 
+const array = ['a', 'w', 'e', 'r'];
+
+const novoArray = array;
+
+
+novoArray[2] = 'k';
+
+console.log(array);
+
+
+
 
 //valores primitivos (imutáveis): string, number, boolean, undefined, null (bigint, symbol)
 
@@ -43,7 +54,7 @@ let x = [5, 6, 7];
 let y = [...x];
 
 console.log(y);*/
-
+/*
 const a = {
     nome: 'Ana',
     sobrenome: 'Silva'
@@ -52,4 +63,4 @@ const a = {
 const b = {...a};
 
 a.nome = 'Luan'
-console.log(a, b);
+console.log(a, b);*/
